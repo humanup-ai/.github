@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.png" alt="HumanUp — Built to grow you, not replace you." width="100%">
+  <img src="./profile/header.png" alt="HumanUp — Built to grow you, not replace you." width="100%">
 </p>
 
 <p align="center">
